@@ -1,0 +1,5 @@
+Expression Evaluator description
+
+Characters are given a certain "value". So for example, x can have a value of 3 and Y can have a value of 4.
+
+Given an expression, say Xyz, a[b] etc. return the value of the expression.
