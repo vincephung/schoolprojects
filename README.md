@@ -1,4 +1,4 @@
 # schoolprojects
 projects for data structures
 
-Please adhere to Rutgers University's Academic Integrity Policy and the Department of CS Academic Integrity Policy.
+Please adhere to http://academicintegrity.rutgers.edu/academic-integrity-policy/ and the Department of CS Academic Integrity Policy.
