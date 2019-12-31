@@ -1,5 +1,6 @@
 # schoolprojects
 projects for data structures fall 2019
+Description of each project is contained within its respective folder
 
 
 This is for educational purposes only and should not be copied by anyone.
