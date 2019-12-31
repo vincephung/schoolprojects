@@ -1,0 +1,5 @@
+BigInt description
+
+Add, subtract, multiply and divide numbers stored as linked lists.
+DigitNode, and BigTest were provided.
+My code is within the methods of BigInteger.java
